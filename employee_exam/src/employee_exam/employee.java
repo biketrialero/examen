@@ -9,6 +9,7 @@ public class employee {
 	      myName = name;
 	      mySalary = salary;
 	   }
+//versio 2
 
 	   public String getName() {
 	      return myName;
